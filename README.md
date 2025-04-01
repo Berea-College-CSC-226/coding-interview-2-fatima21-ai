@@ -1,6 +1,6 @@
 # Coding Interview 2
 
-Name: ________________________
+Name: __Faryal Fatima______________________
 
 ## Instructions
 
